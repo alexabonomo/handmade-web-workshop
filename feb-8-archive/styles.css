@@ -1,0 +1,15 @@
+body {
+
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:cornflowerblue;
+    color:black;
+    font-size:large;
+    width: 40%;
+    margin: auto;
+}
+
+.internet-memory{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: salmon;
+    font-size: 30pt;
+}
